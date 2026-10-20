@@ -1,0 +1,9 @@
+{
+	"name": "zeoslib",
+	"description": "ZeosLib - database access components for Delphi (A0Gateway fork of ZeosLib 8.0.0-stable, only boss.json added)",
+	"version": "8.0.0",
+	"homepage": "https://github.com/A0Gateway/zeoslib",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
